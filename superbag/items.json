@@ -1,6 +1,6 @@
 [
 {
-    "id": "god_bag",
+    "id": "super_bag",
     "type": "ARMOR",
     "name": "god bag",
     "description": "God bag",
@@ -12,11 +12,13 @@
     "symbol": "[",
     "looks_like": "duffelbag",
     "color": "brown",
-    "covers": [ "ARM_EITHER", "HAND_EITHER" ],
+    "covers": [ "ARM_EITHER" ],
     "coverage": 5,
+	"warmth" : 10,
     "encumbrance": 100,
     "storage": "9999 L",
-    "material_thickness": 1,
+	"weight_capacity_bonus": "9999 kg", 
+    "material_thickness": 5,
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "WATER_FRIENDLY" ]
   }
 ]

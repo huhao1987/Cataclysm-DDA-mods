@@ -4,7 +4,7 @@
     "ident": "superbag",
     "name": "Super bag",
     "authors": [ "huhao1987" ],
-    "description": "Add recipe and the item of a super bag which give 99999 L of storage.",
+    "description": "Add recipe and the item of a super bag which give 99999 L and 9999 kg of storage.",
     "category": "items",
     "dependencies": [ "dda" ]
   }
