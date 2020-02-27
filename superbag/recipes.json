@@ -1,0 +1,14 @@
+[
+  {
+    "result": "god_bag",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_STORAGE",
+    "skill_used": "survival",
+    "time": "36 s",
+    "reversible": true,
+    "autolearn": true,
+    "components": [ [ ] ],
+    "flags": [ "BLIND_EASY" ]
+  }
+  ]

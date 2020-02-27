@@ -1,0 +1,22 @@
+[
+{
+    "id": "god_bag",
+    "type": "ARMOR",
+    "name": "god bag",
+    "description": "God bag",
+    "weight": "100 g",
+    "volume": "1 L",
+    "price": 99999000,
+    "to_hit": -5,
+    "material": "cotton",
+    "symbol": "[",
+    "looks_like": "duffelbag",
+    "color": "brown",
+    "covers": [ "ARM_EITHER", "HAND_EITHER" ],
+    "coverage": 5,
+    "encumbrance": 100,
+    "storage": "9999 L",
+    "material_thickness": 1,
+    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "WATER_FRIENDLY" ]
+  }
+]
